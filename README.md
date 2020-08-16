@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://github.com/parzulpan/parzulpan/blob/master/resources/header.gif" width="300"/>
+  <img src="https://github.com/parzulpan/parzulpan/blob/master/resources/header.gif" width="300"/> 
+</p>
+<br>
+<b>
   美国搞技术封锁，不允许中国企业使用美国技术。今天就来谈谈，应该怎么应对这种局面。
   华为最近宣布，2020年9月15日以后，手机的麒麟芯片无法生产了，可能将成为绝响，因为台积电迫于美国的禁令，不再接受华为的订单了。
   
@@ -11,7 +14,6 @@
 
   所以我觉得， 政府应该把开源软件定为国家战略。 鼓励国人多使用开源软件（比如 Linux），摆脱对专有技术的依赖；同时，鼓励企业和个人将自己的智力成果与全世界共享，打破美国的技术霸权。最终来说，只有开放才能打败封锁。
                                                                                                                 -- 出自《科技爱好者周刊（第 120 期）：只有开放才能打败封锁》
-  
-</p>
+</b>
 
 -------
