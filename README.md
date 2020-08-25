@@ -5,6 +5,4 @@
 <b>
 </b>
 
--------
-
-[IDEA](idea.md)
+<center> [IDEA](idea.md) </center>
