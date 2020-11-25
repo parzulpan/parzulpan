@@ -3,6 +3,6 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/parzulpan/parzulpan/blob/master/resources/header.gif" width="300"/> 
+  <img src="https://github.com/parzulpan/parzulpan/blob/master/resources/header.gif" width="495"/> 
 </p>
 <br>
