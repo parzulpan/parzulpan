@@ -1,5 +1,5 @@
 <p align="center">
-![parzulpan github stats](https://github-readme-stats.vercel.app/api?username=parzulpan&show_icons=true&theme=dracula)
+  <img src=![parzulpan github stats](https://github-readme-stats.vercel.app/api?username=parzulpan&show_icons=true&theme=dracula)/> 
 </p>
 <br>
 <p align="center">
